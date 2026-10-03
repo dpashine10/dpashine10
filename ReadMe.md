@@ -1,188 +1,287 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,20&text=DIVY&fontSize=65&fontAlignY=42&animation=fadeIn&fontColor=ffffff"/>
+# `DIVY PASHINE`
 
-### `data science` · `ai` · `mobile` · `cloud`
+### DATA SCIENCE · AI/ML · APP DEVELOPMENT · CLOUD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=7CDBFF&center=true&vCenter=true&width=700&lines=I+build+things.;I+deploy+things.;I+self-host+things.;Sometimes+I+break+things+too." />
+`dpashine10`
 
-<br/>
+<br>
 
-<a href="https://dpashine.tech">
-<img src="https://img.shields.io/badge/🌐%20dpashine.tech-111111?style=for-the-badge"/>
-</a>
-<a href="mailto:[divy@dpashine.tech](mailto:divy@dpashine.tech)">
-<img src="https://img.shields.io/badge/✉%20Email-111111?style=for-the-badge"/>
-</a>
-<a href="https://github.com/dpashine10">
-<img src="https://img.shields.io/badge/⌘%20GitHub-111111?style=for-the-badge"/>
-</a>
+**I build software, deploy it, and occasionally break the server doing it.**
 
-<br/><br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=dpashine10&style=flat-square&color=7C3AED&label=VISITORS"/>
+<a href="https://dpashine.tech"><kbd> WEBSITE </kbd></a>
+   <a href="mailto:divy@dpashine.tech"><kbd> EMAIL </kbd></a>
+   <a href="https://github.com/dpashine10"><kbd> GITHUB </kbd></a>
+
+<br><br>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+## `01 / about`
+
+I'm **Divy**, a Data Science student interested in the space between **AI, software and infrastructure**.
+
+I like taking things beyond experiments and notebooks — building the backend, shipping the app, deploying the service and understanding what's happening underneath.
+
+<div align="center">
+
+**AI**   `×`   **APPLICATIONS**   `×`   **CLOUD**   `×`   **SELF-HOSTING`
 
 </div>
 
 ---
 
+## `02 / currently`
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### AI / ML
+
+LLMs
+RAG
+AI Agents
+Local AI
+On-device ML
+
+</td>
+
+<td width="25%" align="center">
+
+### APPS
+
+Flutter
+Android
+SwiftUI
+React
+Web Apps
+
+</td>
+
+<td width="25%" align="center">
+
+### BACKEND
+
+FastAPI
+Flask
+REST APIs
+PostgreSQL
+MongoDB
+
+</td>
+
+<td width="25%" align="center">
+
+### INFRA
+
+AWS
+Cloudflare
+Docker
+Linux
+Self-hosting
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / selected work`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### `PRIVATE AI`
+
+**Second Brain**
+
+A private AI system exploring memory, automation, local inference and personal data.
+
+<br>
+
+`LLMs` `RAG` `Automation` `Local AI`
+
+<br><br>
+
+<a href="https://github.com/dpashine10"><kbd> EXPLORE → </kbd></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### `DATA`
+
+**Data Quality Engineering**
+
+A developer tool for analysing large datasets, detecting quality issues and turning them into actionable insights.
+
+<br>
+
+`Python` `Pandas` `Data Quality`
+
+<br><br>
+
+<a href="https://github.com/dpashine10"><kbd> EXPLORE → </kbd></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### `EDGE AI`
+
+**On-Device Intelligence**
+
+Experiments with quantised models, local inference and AI running directly on consumer hardware.
+
+<br>
+
+`ONNX` `Quantisation` `LLMs`
+
+<br><br>
+
+<a href="https://github.com/dpashine10"><kbd> EXPLORE → </kbd></a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `04 / stack`
+
 <div align="center">
 
-### ⚡ What I'm into
+### LANGUAGES
 
-`AI / ML`   `LLMs`   `Mobile Apps`   `Backend`   `Cloud`   `Self-Hosting`
+`C++` `Python` `Dart` `Kotlin` `Swift` `TypeScript` `SQL` `Bash` `YAML` `HTML` `CSS`
+
+<br><br>
+
+### AI / DATA
+
+`PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `SciPy` `Matplotlib` `Hugging Face` `Ollama`
+
+<br><br>
+
+### APP / WEB
+
+`Flutter` `Android` `SwiftUI` `React` `Vite` `Tailwind CSS`
+
+<br><br>
+
+### BACKEND
+
+`FastAPI` `Flask` `Uvicorn` `Gunicorn` `REST APIs`
+
+<br><br>
+
+### DATABASES
+
+`PostgreSQL` `MongoDB` `MySQL` `Firebase` `Oracle`
+
+<br><br>
+
+### CLOUD / DEVOPS
+
+`AWS` `Cloudflare` `DigitalOcean` `Docker` `Linux` `Git` `GitHub` `Tailscale`
 
 </div>
 
 ---
 
-<details open>
-<summary><b>🧠 About</b></summary>
-
-<br/>
-
-I'm **Divy**, a Data Science student who likes turning ideas into actual software.
-
-My interests sit somewhere between **AI, application development and infrastructure** — from training models to building APIs, shipping apps and running the infrastructure myself.
-
-</details>
-
----
+## `05 / github`
 
 <div align="center">
 
-## 🚀 Featured
+<table>
+<tr>
 
-<a href="https://github.com/dpashine10">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dpashine10&repo=SNLP_Project&theme=tokyonight&hide_border=true" />
-</a>
+<td align="center">
 
-</div>
-
-<br/>
-
-<div align="center">
+### `CODE`
 
 <a href="https://github.com/dpashine10?tab=repositories">
-<img src="https://img.shields.io/badge/▸%20Browse%20all%20repositories-7C3AED?style=for-the-badge"/>
+<b>REPOSITORIES</b>
 </a>
 
-</div>
+</td>
 
----
+<td align="center">
 
-<details>
-<summary><b>💻 Tech Stack</b></summary>
+### `PROFILE`
 
-<br/>
+<a href="https://github.com/dpashine10">
+<b>@DPASHINE10</b>
+</a>
 
-<div align="center">
+</td>
 
-### Languages
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,dart,kotlin,swift,typescript,bash" />
-
-<br/><br/>
-
-### App / Web
-
-<img src="https://skillicons.dev/icons?i=flutter,android,swift,react,vite,tailwind" />
-
-<br/><br/>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-
-<br/><br/>
-
-### Backend / Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,mysql,firebase,oracle" />
-
-<br/><br/>
-
-### Cloud / Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailscale-4B70F5?style=for-the-badge&logo=tailscale&logoColor=white"/>
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=dpashine10&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpashine10&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=dpashine10&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpashine10&bg_color=0d1117&color=7CDBFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<details>
-<summary><b>🔭 Currently Building / Exploring</b></summary>
-
-<br/>
-
-<div align="center">
-
-`Private AI` · `Local LLMs` · `RAG` · `AI Agents` · `On-Device AI`
-
-`Data Quality` · `ML Systems` · `Cloud Infrastructure` · `Self-Hosting`
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-### `build → deploy → learn → repeat`
-
-<br/>
+### `WEB`
 
 <a href="https://dpashine.tech">
-<img src="https://img.shields.io/badge/Visit%20my%20website-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/>
+<b>dpashine.tech</b>
 </a>
 
-<br/><br/>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,14,20"/>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/dpashine10?tab=repositories">
+<kbd> VIEW ALL PROJECTS → </kbd>
+</a>
+
+</div>
+
+---
+
+## `06 / philosophy`
+
+<div align="center">
+
+> **Build it.**
+>
+> **Understand it.**
+>
+> **Deploy it.**
+>
+> **Improve it.**
+
+<br>
+
+`notebook → model → backend → application → production`
+
+</div>
+
+---
+
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+### LET'S BUILD SOMETHING INTERESTING.
+
+<br>
+
+<a href="https://dpashine.tech"><kbd> dpashine.tech </kbd></a>
+   <a href="mailto:divy@dpashine.tech"><kbd> GET IN TOUCH </kbd></a>
+   <a href="https://github.com/dpashine10"><kbd> GITHUB </kbd></a>
+
+<br><br>
+
+`© 2026 DIVY PASHINE`
 
 </div>
