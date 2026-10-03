@@ -1,141 +1,201 @@
 <div align="center">
 
-# 👋 Hey, I'm Divy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DIVY%20PASHINE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%2B%20Software%20%2B%20Cloud&descAlignY=58&descSize=20" />
 
-### `Data Science` × `App Development` × `Cloud` × `AI` × `Self-Hosting`
+# `dpashine10`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+things+that+shouldn't+work+%E2%80%94+until+they+do.;Data+Science+%2B+Software+Engineering;Mobile+Apps+%7C+AI%2FML+%7C+Cloud+%7C+Self-Hosting;Turning+ideas+into+scalable+systems." alt="Typing SVG" />
+### Building at the intersection of **Data, AI, Apps & Infrastructure**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=8BE9FD&center=true&vCenter=true&width=800&lines=Data+Science+%7C+AI%2FML+%7C+Mobile+%7C+Cloud;Building+%E2%86%92+Deploying+%E2%86%92+Self-Hosting+%E2%86%92+Scaling;Turning+ideas+into+real+systems.;I+like+knowing+what+happens+under+the+hood." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dpashine10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:divy@dpashine.tech)
-[![Website](https://img.shields.io/badge/Website-00A8FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dpashine.tech)
+<a href="https://github.com/dpashine10">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:divy@dpashine.tech">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://dpashine.tech">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=dpashine10&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dpashine10&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `whoami`
 
-I'm **Divy**, a Data Science student who loves building software that actually gets deployed.
+I'm **Divy**, a Data Science student who enjoys building things that live outside the notebook.
 
-My interests sit at the intersection of:
+My sweet spot is where **machine learning meets software engineering and infrastructure**.
 
-```text
-             ┌──────────────────────┐
-             │     DATA SCIENCE     │
-             │     AI / ML / LLMs   │
-             └──────────┬───────────┘
-                        │
-                        ▼
-┌─────────────────┐   ┌──────────────┐   ┌─────────────────┐
-│  APP DEVELOPMENT│──▶│   SOFTWARE   │◀──│     CLOUD       │
-│ Flutter / Swift │   │   ENGINEERING│   │ AWS / DO / CF   │
-│ Android         │   │ APIs / DBs   │   │ Self-Hosted     │
-└─────────────────┘   └──────────────┘   └─────────────────┘
-                        │
-                        ▼
-               🚀 BUILD • DEPLOY • SCALE
-```
+I enjoy taking a problem from:
 
-I enjoy going beyond writing code:
+**idea → data → model → backend → application → deployment**
 
-**Idea → Architecture → Development → Deployment → Monitoring**
+and actually getting the whole thing running.
 
-I've worked with cloud platforms such as **AWS, DigitalOcean and Cloudflare**, while also running my own **Linux server infrastructure** and self-hosting services.
+I'm especially interested in:
 
-My goal is to combine **Data Science + Software Engineering + Cloud Infrastructure** to build intelligent, scalable applications.
+* Artificial Intelligence & LLMs
+* Data Science & Machine Learning
+* Mobile Application Development
+* Backend & APIs
+* Cloud Infrastructure
+* Linux & Self-Hosting
+* Developer Tools
+* Automation
 
 ---
 
-## ⚡ What I Like Building
+## `what_i_build`
 
-```yaml
-AI:
-  - LLM applications
-  - RAG systems
-  - Local / on-device AI
-  - AI-powered automation
-  - Machine Learning pipelines
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Apps:
-  - Flutter applications
-  - Android applications
-  - iOS applications
-  - Full-stack web applications
+### AI Systems
 
-Backend:
-  - REST APIs
-  - FastAPI
-  - Flask
-  - PostgreSQL
-  - MongoDB
-  - Firebase
+Building intelligent systems rather than just training models.
 
-Cloud:
-  - AWS
-  - Cloudflare
-  - DigitalOcean
-  - Docker
-  - Linux servers
-  - Self-hosted infrastructure
-```
+**Currently interested in**
+
+`LLMs`
+`RAG`
+`AI Agents`
+`Local AI`
+`On-device AI`
+`ML Pipelines`
+`AI Automation`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Applications
+
+I like turning models and ideas into actual products.
+
+**I build with**
+
+`Flutter`
+`Android`
+`SwiftUI`
+`React`
+`FastAPI`
+`Flask`
+`PostgreSQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+The fun doesn't stop when the code works.
+
+**I work with**
+
+`AWS`
+`Cloudflare`
+`DigitalOcean`
+`Docker`
+`Linux`
+`Tailscale`
+`Self-Hosting`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+## `projects`
 
-## 🧑‍💻 Languages
+### Private AI Second Brain
+
+A personal AI system designed to connect **memory, automation, applications and everyday data**.
+
+The goal is to build something closer to a personal operating system than another chatbot.
+
+**Exploring**
+
+`LLMs` · `Memory Systems` · `RAG` · `Automation` · `Local Inference` · `APIs`
+
+---
+
+### Data Quality Engineering
+
+A developer tool for working with large datasets without manually digging through thousands or millions of rows.
+
+The idea:
+
+**Dataset → Profiling → Quality Analysis → Anomalies → Quality Score → Optimisation**
+
+Designed around the idea that data cleaning should be **measurable, explainable and automatable**.
+
+---
+
+### On-Device AI
+
+Experimenting with running useful AI directly on consumer hardware.
+
+**Focus**
+
+`Quantisation` · `ONNX` · `Local LLMs` · `Model Optimisation` · `Android`
+
+---
+
+## `stack`
+
+### Languages
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,dart,kotlin,swift,typescript,bash" />
 
 </p>
 
-## 📱 App & Frontend Development
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+### AI / Data
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
 </p>
 
-## 🤖 AI / Machine Learning / Data
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 </p>
 
-## 🧩 Backend & APIs
+### App Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,android,swift,react,vite,tailwind" />
+
+</p>
+
+### Backend
 
 <p align="center">
 
@@ -143,184 +203,175 @@ Cloud:
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </p>
 
-## 🗄️ Databases
+### Databases
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,oracle" />
 
 </p>
 
-## ☁️ Cloud / DevOps / Infrastructure
+### Cloud / DevOps
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailscale-4B70F5?style=for-the-badge&logo=tailscale&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Self--Hosting-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🚀 Things I've Been Building
-
-### 🧠 Private AI Second Brain
-
-A private AI system designed to reduce everyday cognitive overhead.
-
-```text
-Emails ────────┐
-Tasks ─────────┤
-Finances ──────┤
-Smart Home ────┼────▶ AI Second Brain ────▶ Actions
-Notifications ─┤
-Memory ────────┘
-```
-
-Exploring **LLMs, memory systems, RAG, automation, local inference and personal AI infrastructure.**
-
----
-
-### 📊 Data Quality Engineering
-
-Building tools that can analyze large datasets, identify quality problems and provide actionable insights without requiring users to manually inspect massive CSV files.
-
-```text
-CSV / Dataset
-      ↓
-Data Profiling
-      ↓
-Quality Analysis
-      ↓
-Anomaly Detection
-      ↓
-Quality Score
-      ↓
-Optimization / Cleaning
-```
-
----
-
-### 📱 AI + Mobile
-
-Experimenting with **on-device AI**, mobile applications and lightweight LLM inference.
-
-From running models locally to integrating intelligence directly into apps.
-
----
-
-# 🌐 Cloud & Self-Hosting
-
-I genuinely enjoy the **"why pay for infrastructure when I can build it?"** side of engineering.
-
-Current interests include:
-
-```text
-Linux Server
-     │
-     ├── Docker
-     ├── PostgreSQL
-     ├── FastAPI
-     ├── Ollama / Local AI
-     ├── Cloudflare Tunnels
-     ├── Tailscale
-     └── Self-hosted Services
-```
-
-I like understanding what happens **under the hood** rather than treating deployment as a black box.
-
----
-
-# 📈 GitHub Stats
+## `how_i_like_to_work`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpashine10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+### DATA
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpashine10&layout=compact&theme=tokyonight&hide_border=true"/>
+↓
+
+### MODEL
+
+↓
+
+### API
+
+↓
+
+### APPLICATION
+
+↓
+
+### INFRASTRUCTURE
+
+↓
+
+### DEPLOYMENT
+
+↓
+
+### MONITORING
 
 </div>
+
+I don't particularly enjoy stopping at **"it works on my machine."**
+
+I like understanding how the pieces connect and getting the entire system running somewhere real.
+
+---
+
+## `currently_exploring`
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### LLMs
+
+Local inference
+RAG
+Agents
+Memory
+
+</td>
+<td align="center" width="25%">
+
+### ML Systems
+
+Model optimisation
+Inference
+Pipelines
+Deployment
+
+</td>
+<td align="center" width="25%">
+
+### Cloud
+
+Containers
+Networking
+Servers
+Automation
+
+</td>
+<td align="center" width="25%">
+
+### Developer Tools
+
+Data tooling
+Automation
+CLI tools
+Internal platforms
+
+</td>
+</tr>
+</table>
+
+---
+
+## `github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dpashine10&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpashine10&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dpashine10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpashine10&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `contribution_snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD. DEPLOY. BREAK. FIX. REPEAT.`
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dpashine10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# 🧭 Currently Exploring
-
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  🤖 LLMs & Generative AI                         │
-│  📚 Retrieval Augmented Generation               │
-│  📱 On-device AI                                 │
-│  ☁️ Cloud Infrastructure                          │
-│  🐳 Docker & Self-Hosting                         │
-│  🧠 AI Agents & Memory                           │
-│  📊 Data Engineering & Data Quality              │
-│  🔬 ML Systems                                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
----
-
-# ⚡ My Engineering Philosophy
-
-> **Build it. Break it. Understand it. Deploy it.**
-
-I like projects where I get to work across the entire stack:
-
-**Data → Model → Backend → Application → Infrastructure → Deployment**
-
-Because the most interesting systems aren't built in just one layer.
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Interesting
-
-**Data Science • AI • Mobile • Cloud • Infrastructure**
-
-<br/>
+<a href="https://dpashine.tech">
+<img src="https://img.shields.io/badge/Explore%20My%20Work-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
 
 <a href="mailto:divy@dpashine.tech">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Get%20In%20Touch-00A8FF?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
 
 </div>
