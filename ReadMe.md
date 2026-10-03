@@ -231,10 +231,6 @@ Running useful AI directly on consumer hardware.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dpashine10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpashine10&bg_color=0f0c29&color=22d3ee&line=8b5cf6&point=f472b6&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <br/><br/>
